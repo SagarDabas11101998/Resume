@@ -1,0 +1,23 @@
+
+nav{
+    font-size: 30px;
+   position: fixed;
+        
+}
+#navbarNavAltMarkup{
+    justify-content: space-around;
+}
+
+img{
+   
+    float: left;
+}
+.paragraph1{
+    color: green;
+    font-size: 32px;
+}
+.paragraph2{
+    color: red;
+    font-size: 20px;
+    
+}
